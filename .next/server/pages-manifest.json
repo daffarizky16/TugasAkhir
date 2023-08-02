@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/participant/[code]": "pages/api/participant/[code].js",
+  "/api/votes/[code]": "pages/api/votes/[code].js",
+  "/api/votes": "pages/api/votes.js",
+  "/": "pages/index.html",
+  "/login/Daftar": "pages/login/Daftar.html",
+  "/participant/[...slug]": "pages/participant/[...slug].html",
+  "/participant": "pages/participant.html",
+  "/vote/create": "pages/vote/create.html",
+  "/vote/detail/[code]": "pages/vote/detail/[code].html",
+  "/vote/success": "pages/vote/success.html",
+  "/login": "pages/login.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
